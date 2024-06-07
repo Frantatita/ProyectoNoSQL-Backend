@@ -11,8 +11,6 @@ Este proyecto es un servidor básico utilizando el framework [Express.js](https:
 
 ## Instalación
 
-### Clonar el repositorio
-
---Clonar el repositorio en tu máquina local "git clone //"
---Instalar modulos "npm install"
---Correr el servidor "Node index.js"
+- Clonar el repositorio en tu máquina local "git clone //"
+- Instalar modulos "npm install"
+- Correr el servidor "Node index.js"
